@@ -1,7 +1,6 @@
 # Image ASCII renderer
-This python program converts an image to ascii tesxt in your terminal.
-
-Feel free to change the greyscale variable to suit your terminal
+This python program converts an image to ascii text in your terminal.  I have added some example images.
+Feel free to change the greyscale variable to suit yourself
 
 # Usage
 To use, run the following terminal command:
